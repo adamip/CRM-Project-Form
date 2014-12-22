@@ -1,0 +1,319 @@
+[01]
+Verint Channel Verint oQM PM 						verintchannelverint_oqm_pm
+Verint Channel Verint oQM SE						verintchannelverint_oqm_se
+Verint Channel Verint oQM WFM SE					verintchannelverint_oqm_wfmse
+Verint Channel Verint oQM Solution Design 			verintchannelverint_oqm_solndesign
+Verint Channel Verint oQM PSE/SI 					verintchannelverint_oqm_psesi
+Verint Channel Verint oQM OnSite Training VLN		verintchannelverint_oqm_onsitetrainvln
+Verint Channel Verint oQM OnSite Training Adtech	verintchannelverint_oqm_onsitetrainadtech
+Verint Channel Verint oQM Application Consulting	verintchannelverint_oqm_appconsulting
+
+[02]
+Verint Channel Verint oRec PM 						verintchannelverint_orec_pm
+Verint Channel Verint oRec SE						verintchannelverint_orec_se
+Verint Channel Verint oRec WFM SE					verintchannelverint_orec_wfmse
+Verint Channel Verint oRec Solution Design 		verintchannelverint_orec_solndesign
+Verint Channel Verint oRec PSE/SI 					verintchannelverint_orec_psesi
+Verint Channel Verint oRec OnSite Training VLN		verintchannelverint_orec_onsitetrainvln
+Verint Channel Verint oRec OnSite Training Adtech	verintchannelverint_orec_onsitetrainadtech
+Verint Channel Verint oRec Application Consulting	verintchannelverint_orec_appconsulting
+
+[03]
+Verint Channel Verint oWFM PM 						verintchannelverint_owfm_pm
+Verint Channel Verint oWFM SE						verintchannelverint_owfm_se
+Verint Channel Verint oWFM WFM SE					verintchannelverint_owfm_wfmse
+Verint Channel Verint oWFM Solution Design 		verintchannelverint_owfm_solndesign
+Verint Channel Verint oWFM PSE/SI 					verintchannelverint_owfm_psesi
+Verint Channel Verint oWFM OnSite Training VLN		verintchannelverint_owfm_onsitetrainvln
+Verint Channel Verint oWFM OnSite Training Adtech	verintchannelverint_owfm_onsitetrainadtech
+Verint Channel Verint oWFM Application Consulting	verintchannelverint_owfm_appconsulting
+
+[04]
+Verint Channel Verint oWFO PM 						verintchannelverint_owfo_pm
+Verint Channel Verint oWFO SE						verintchannelverint_owfo_se
+Verint Channel Verint oWFO WFM SE					verintchannelverint_owfo_wfmse
+Verint Channel Verint oWFO Solution Design 		verintchannelverint_owfo_solndesign
+Verint Channel Verint oWFO PSE/SI 					verintchannelverint_owfo_psesi
+Verint Channel Verint oWFO OnSite Training VLN		verintchannelverint_owfo_onsitetrainvln
+Verint Channel Verint oWFO OnSite Training Adtech	verintchannelverint_owfo_onsitetrainadtech
+Verint Channel Verint oWFO Application Consulting	verintchannelverint_owfo_appconsulting
+
+[05]
+Verint Direct Verint oQM PM 						verintdirectverint_oqm_pm
+Verint Direct Verint oQM SE						verintdirectverint_oqm_se
+Verint Direct Verint oQM WFM SE					verintdirectverint_oqm_wfmse
+Verint Direct Verint oQM Solution Design 			verintdirectverint_oqm_solndesign
+Verint Direct Verint oQM PSE/SI 					verintdirectverint_oqm_psesi
+Verint Direct Verint oQM OnSite Training VLN		verintdirectverint_oqm_onsitetrainvln
+Verint Direct Verint oQM OnSite Training Adtech	verintdirectverint_oqm_onsitetrainadtech
+Verint Direct Verint oQM Application Consulting	verintdirectverint_oqm_appconsulting
+
+[06]
+Verint Direct Verint oRec PM 						verintdirectverint_orec_pm
+Verint Direct Verint oRec SE						verintdirectverint_orec_se
+Verint Direct Verint oRec WFM SE					verintdirectverint_orec_wfmse
+Verint Direct Verint oRec Solution Design 			verintdirectverint_orec_solndesign
+Verint Direct Verint oRec PSE/SI 					verintdirectverint_orec_psesi
+Verint Direct Verint oRec OnSite Training VLN		verintdirectverint_orec_onsitetrainvln
+Verint Direct Verint oRec OnSite Training Adtech	verintdirectverint_orec_onsitetrainadtech
+Verint Direct Verint oRec Application Consulting	verintdirectverint_orec_appconsulting
+
+[07]
+Verint Direct Verint oWFM PM 						verintdirectverint_owfm_pm
+Verint Direct Verint oWFM SE						verintdirectverint_owfm_se
+Verint Direct Verint oWFM WFM SE					verintdirectverint_owfm_wfmse
+Verint Direct Verint oWFM Solution Design 			verintdirectverint_owfm_solndesign
+Verint Direct Verint oWFM PSE/SI 					verintdirectverint_owfm_psesi
+Verint Direct Verint oWFM OnSite Training VLN		verintdirectverint_owfm_onsitetrainvln
+Verint Direct Verint oWFM OnSite Training Adtech	verintdirectverint_owfm_onsitetrainadtech
+Verint Direct Verint oWFM Application Consulting	verintdirectverint_owfm_appconsulting
+
+[08]
+Verint Direct Verint oWFO PM 						verintdirectverint_owfo_pm
+Verint Direct Verint oWFO SE						verintdirectverint_owfo_se
+Verint Direct Verint oWFO WFM SE					verintdirectverint_owfo_wfmse
+Verint Direct Verint oWFO Solution Design 			verintdirectverint_owfo_solndesign
+Verint Direct Verint oWFO PSE/SI 					verintdirectverint_owfo_psesi
+Verint Direct Verint oWFO OnSite Training VLN		verintdirectverint_owfo_onsitetrainvln
+Verint Direct Verint oWFO OnSite Training Adtech	verintdirectverint_owfo_onsitetrainadtech
+Verint Direct Verint oWFO Application Consulting	verintdirectverint_owfo_appconsulting
+
+[09]
+Verint Channel Sky oQM PM 						verintchannelsky_oqm_pm
+Verint Channel Sky oQM SE						verintchannelsky_oqm_se
+Verint Channel Sky oQM WFM SE					verintchannelsky_oqm_wfmse
+Verint Channel Sky oQM Solution Design 			verintchannelsky_oqm_solndesign
+Verint Channel Sky oQM PSE/SI 					verintchannelsky_oqm_psesi
+Verint Channel Sky oQM OnSite Training VLN		verintchannelsky_oqm_onsitetrainvln
+Verint Channel Sky oQM OnSite Training Adtech	verintchannelsky_oqm_onsitetrainadtech
+Verint Channel Sky oQM Application Consulting	verintchannelsky_oqm_appconsulting
+
+[10]
+Verint Channel Sky oRec PM 						verintchannelsky_orec_pm
+Verint Channel Sky oRec SE						verintchannelsky_orec_se
+Verint Channel Sky oRec WFM SE					verintchannelsky_orec_wfmse
+Verint Channel Sky oRec Solution Design 		verintchannelsky_orec_solndesign
+Verint Channel Sky oRec PSE/SI 					verintchannelsky_orec_psesi
+Verint Channel Sky oRec OnSite Training VLN		verintchannelsky_orec_onsitetrainvln
+Verint Channel Sky oRec OnSite Training Adtech	verintchannelsky_orec_onsitetrainadtech
+Verint Channel Sky oRec Application Consulting	verintchannelsky_orec_appconsulting
+
+[11]
+Verint Channel Sky oWFM PM 						verintchannelsky_owfm_pm
+Verint Channel Sky oWFM SE						verintchannelsky_owfm_se
+Verint Channel Sky oWFM WFM SE					verintchannelsky_owfm_wfmse
+Verint Channel Sky oWFM Solution Design 		verintchannelsky_owfm_solndesign
+Verint Channel Sky oWFM PSE/SI 					verintchannelsky_owfm_psesi
+Verint Channel Sky oWFM OnSite Training VLN		verintchannelsky_owfm_onsitetrainvln
+Verint Channel Sky oWFM OnSite Training Adtech	verintchannelsky_owfm_onsitetrainadtech
+Verint Channel Sky oWFM Application Consulting	verintchannelsky_owfm_appconsulting
+
+[12]
+Verint Channel Sky oWFO PM 						verintchannelsky_owfo_pm
+Verint Channel Sky oWFO SE						verintchannelsky_owfo_se
+Verint Channel Sky oWFO WFM SE					verintchannelsky_owfo_wfmse
+Verint Channel Sky oWFO Solution Design 		verintchannelsky_owfo_solndesign
+Verint Channel Sky oWFO PSE/SI 					verintchannelsky_owfo_psesi
+Verint Channel Sky oWFO OnSite Training VLN		verintchannelsky_owfo_onsitetrainvln
+Verint Channel Sky oWFO OnSite Training Adtech	verintchannelsky_owfo_onsitetrainadtech
+Verint Channel Sky oWFO Application Consulting	verintchannelsky_owfo_appconsulting
+
+[13]
+Verint Direct Sky oQM PM 						verintdirectsky_oqm_pm
+Verint Direct Sky oQM SE						verintdirectsky_oqm_se
+Verint Direct Sky oQM WFM SE					verintdirectsky_oqm_wfmse
+Verint Direct Sky oQM Solution Design 			verintdirectsky_oqm_solndesign
+Verint Direct Sky oQM PSE/SI 					verintdirectsky_oqm_psesi
+Verint Direct Sky oQM OnSite Training VLN		verintdirectsky_oqm_onsitetrainvln
+Verint Direct Sky oQM OnSite Training Adtech	verintdirectsky_oqm_onsitetrainadtech
+Verint Direct Sky oQM Application Consulting	verintdirectsky_oqm_appconsulting
+
+[14]
+Verint Direct Sky oRec PM 						verintdirectsky_orec_pm
+Verint Direct Sky oRec SE						verintdirectsky_orec_se
+Verint Direct Sky oRec WFM SE					verintdirectsky_orec_wfmse
+Verint Direct Sky oRec Solution Design 			verintdirectsky_orec_solndesign
+Verint Direct Sky oRec PSE/SI 					verintdirectsky_orec_psesi
+Verint Direct Sky oRec OnSite Training VLN		verintdirectsky_orec_onsitetrainvln
+Verint Direct Sky oRec OnSite Training Adtech	verintdirectsky_orec_onsitetrainadtech
+Verint Direct Sky oRec Application Consulting	verintdirectsky_orec_appconsulting
+
+[15]
+Verint Direct Sky oWFM PM 						verintdirectsky_owfm_pm
+Verint Direct Sky oWFM SE						verintdirectsky_owfm_se
+Verint Direct Sky oWFM WFM SE					verintdirectsky_owfm_wfmse
+Verint Direct Sky oWFM Solution Design 			verintdirectsky_owfm_solndesign
+Verint Direct Sky oWFM PSE/SI 					verintdirectsky_owfm_psesi
+Verint Direct Sky oWFM OnSite Training VLN		verintdirectsky_owfm_onsitetrainvln
+Verint Direct Sky oWFM OnSite Training Adtech	verintdirectsky_owfm_onsitetrainadtech
+Verint Direct Sky oWFM Application Consulting	verintdirectsky_owfm_appconsulting
+
+[16]
+Verint Direct Sky oWFO PM 						verintdirectsky_owfo_pm
+Verint Direct Sky oWFO SE						verintdirectsky_owfo_se
+Verint Direct Sky oWFO WFM SE					verintdirectsky_owfo_wfmse
+Verint Direct Sky oWFO Solution Design 			verintdirectsky_owfo_solndesign
+Verint Direct Sky oWFO PSE/SI 					verintdirectsky_owfo_psesi
+Verint Direct Sky oWFO OnSite Training VLN		verintdirectsky_owfo_onsitetrainvln
+Verint Direct Sky oWFO OnSite Training Adtech	verintdirectsky_owfo_onsitetrainadtech
+Verint Direct Sky oWFO Application Consulting	verintdirectsky_owfo_appconsulting
+
+[17]
+Estimated Verint Channel Verint oQM PM 						estverintchannelverint_oqm_pm
+Estimated Verint Channel Verint oQM SE						estverintchannelverint_oqm_se
+Estimated Verint Channel Verint oQM WFM SE					estverintchannelverint_oqm_wfmse
+Estimated Verint Channel Verint oQM Solution Design 		estverintchannelverint_oqm_solndesign
+Estimated Verint Channel Verint oQM PSE/SI 					estverintchannelverint_oqm_psesi
+Estimated Verint Channel Verint oQM OnSite Training VLN		estverintchannelverint_oqm_trainvln
+Estimated Verint Channel Verint oQM OnSite Training Adtech	estverintchannelverint_oqm_trainadtech
+Estimated Verint Channel Verint oQM Application Consulting	estverintchannelverint_oqm_appconsulting
+
+[18]
+Estimated Verint Channel Verint oRec PM 					estverintchannelverint_orec_pm
+Estimated Verint Channel Verint oRec SE						estverintchannelverint_orec_se
+Estimated Verint Channel Verint oRec WFM SE					estverintchannelverint_orec_wfmse
+Estimated Verint Channel Verint oRec Solution Design 		estverintchannelverint_orec_solndesign
+Estimated Verint Channel Verint oRec PSE/SI 				estverintchannelverint_orec_psesi
+Estimated Verint Channel Verint oRec OnSite Training VLN	estverintchannelverint_orec_trainvln
+Estimated Verint Channel Verint oRec OnSite Training Adtech	estverintchannelverint_orec_trainadtech
+Estimated Verint Channel Verint oRec Application Consulting	estverintchannelverint_orec_appconsulting
+
+[19]
+Estimated Verint Channel Verint oWFM PM 					estverintchannelverint_owfm_pm
+Estimated Verint Channel Verint oWFM SE						estverintchannelverint_owfm_se
+Estimated Verint Channel Verint oWFM WFM SE					estverintchannelverint_owfm_wfmse
+Estimated Verint Channel Verint oWFM Solution Design 		estverintchannelverint_owfm_solndesign
+Estimated Verint Channel Verint oWFM PSE/SI 				estverintchannelverint_owfm_psesi
+Estimated Verint Channel Verint oWFM OnSite Training VLN	estverintchannelverint_owfm_trainvln
+Estimated Verint Channel Verint oWFM OnSite Training Adtech	estverintchannelverint_owfm_trainadtech
+Estimated Verint Channel Verint oWFM Application Consulting	estverintchannelverint_owfm_appconsulting
+
+[20]
+Estimated Verint Channel Verint oWFO PM 					estverintchannelverint_owfo_pm
+Estimated Verint Channel Verint oWFO SE						estverintchannelverint_owfo_se
+Estimated Verint Channel Verint oWFO WFM SE					estverintchannelverint_owfo_wfmse
+Estimated Verint Channel Verint oWFO Solution Design 		estverintchannelverint_owfo_solndesign
+Estimated Verint Channel Verint oWFO PSE/SI 				estverintchannelverint_owfo_psesi
+Estimated Verint Channel Verint oWFO OnSite Training VLN	estverintchannelverint_owfo_trainvln
+Estimated Verint Channel Verint oWFO OnSite Training Adtech	estverintchannelverint_owfo_trainadtech
+Estimated Verint Channel Verint oWFO Application Consulting	estverintchannelverint_owfo_appconsulting
+
+[21]
+Estimated Verint Direct Verint oQM PM 						estverintdirectverint_oqm_pm
+Estimated Verint Direct Verint oQM SE						estverintdirectverint_oqm_se
+Estimated Verint Direct Verint oQM WFM SE					estverintdirectverint_oqm_wfmse
+Estimated Verint Direct Verint oQM Solution Design 			estverintdirectverint_oqm_solndesign
+Estimated Verint Direct Verint oQM PSE/SI 					estverintdirectverint_oqm_psesi
+Estimated Verint Direct Verint oQM OnSite Training VLN		estverintdirectverint_oqm_trainvln
+Estimated Verint Direct Verint oQM OnSite Training Adtech	estverintdirectverint_oqm_trainadtech
+Estimated Verint Direct Verint oQM Application Consulting	estverintdirectverint_oqm_appconsulting
+
+[22]
+Estimated Verint Direct Verint oRec PM 						estverintdirectverint_orec_pm
+Estimated Verint Direct Verint oRec SE						estverintdirectverint_orec_se
+Estimated Verint Direct Verint oRec WFM SE					estverintdirectverint_orec_wfmse
+Estimated Verint Direct Verint oRec Solution Design 		estverintdirectverint_orec_solndesign
+Estimated Verint Direct Verint oRec PSE/SI 					estverintdirectverint_orec_psesi
+Estimated Verint Direct Verint oRec OnSite Training VLN		estverintdirectverint_orec_trainvln
+Estimated Verint Direct Verint oRec OnSite Training Adtech	estverintdirectverint_orec_trainadtech
+Estimated Verint Direct Verint oRec Application Consulting	estverintdirectverint_orec_appconsulting
+
+[23]
+Estimated Verint Direct Verint oWFM PM 						estverintdirectverint_owfm_pm
+Estimated Verint Direct Verint oWFM SE						estverintdirectverint_owfm_se
+Estimated Verint Direct Verint oWFM WFM SE					estverintdirectverint_owfm_wfmse
+Estimated Verint Direct Verint oWFM Solution Design 		estverintdirectverint_owfm_solndesign
+Estimated Verint Direct Verint oWFM PSE/SI 					estverintdirectverint_owfm_psesi
+Estimated Verint Direct Verint oWFM OnSite Training VLN		estverintdirectverint_owfm_trainvln
+Estimated Verint Direct Verint oWFM OnSite Training Adtech	estverintdirectverint_owfm_trainadtech
+Estimated Verint Direct Verint oWFM Application Consulting	estverintdirectverint_owfm_appconsulting
+
+[24]
+Estimated Verint Direct Verint oWFO PM 						estverintdirectverint_owfo_pm
+Estimated Verint Direct Verint oWFO SE						estverintdirectverint_owfo_se
+Estimated Verint Direct Verint oWFO WFM SE					estverintdirectverint_owfo_wfmse
+Estimated Verint Direct Verint oWFO Solution Design 		estverintdirectverint_owfo_solndesign
+Estimated Verint Direct Verint oWFO PSE/SI 					estverintdirectverint_owfo_psesi
+Estimated Verint Direct Verint oWFO OnSite Training VLN		estverintdirectverint_owfo_trainvln
+Estimated Verint Direct Verint oWFO OnSite Training Adtech	estverintdirectverint_owfo_trainadtech
+Estimated Verint Direct Verint oWFO Application Consulting	estverintdirectverint_owfo_appconsulting
+
+[25]
+Estimated Verint Channel Sky oQM PM 						estverintchannelsky_oqm_pm
+Estimated Verint Channel Sky oQM SE							estverintchannelsky_oqm_se
+Estimated Verint Channel Sky oQM WFM SE						estverintchannelsky_oqm_wfmse
+Estimated Verint Channel Sky oQM Solution Design 			estverintchannelsky_oqm_solndesign
+Estimated Verint Channel Sky oQM PSE/SI 					estverintchannelsky_oqm_psesi
+Estimated Verint Channel Sky oQM OnSite Training VLN		estverintchannelsky_oqm_trainvln
+Estimated Verint Channel Sky oQM OnSite Training Adtech		estverintchannelsky_oqm_trainadtech
+Estimated Verint Channel Sky oQM Application Consulting		estverintchannelsky_oqm_appconsulting
+
+[26]
+Estimated Verint Channel Sky oRec PM 						estverintchannelsky_orec_pm
+Estimated Verint Channel Sky oRec SE						estverintchannelsky_orec_se
+Estimated Verint Channel Sky oRec WFM SE					estverintchannelsky_orec_wfmse
+Estimated Verint Channel Sky oRec Solution Design 			estverintchannelsky_orec_solndesign
+Estimated Verint Channel Sky oRec PSE/SI 					estverintchannelsky_orec_psesi
+Estimated Verint Channel Sky oRec OnSite Training VLN		estverintchannelsky_orec_trainvln
+Estimated Verint Channel Sky oRec OnSite Training Adtech	estverintchannelsky_orec_trainadtech
+Estimated Verint Channel Sky oRec Application Consulting	estverintchannelsky_orec_appconsulting
+
+[27]
+Estimated Verint Channel Sky oWFM PM 						estverintchannelsky_owfm_pm
+Estimated Verint Channel Sky oWFM SE						estverintchannelsky_owfm_se
+Estimated Verint Channel Sky oWFM WFM SE					estverintchannelsky_owfm_wfmse
+Estimated Verint Channel Sky oWFM Solution Design 			estverintchannelsky_owfm_solndesign
+Estimated Verint Channel Sky oWFM PSE/SI 					estverintchannelsky_owfm_psesi
+Estimated Verint Channel Sky oWFM OnSite Training VLN		estverintchannelsky_owfm_trainvln
+Estimated Verint Channel Sky oWFM OnSite Training Adtech	estverintchannelsky_owfm_trainadtech
+Estimated Verint Channel Sky oWFM Application Consulting	estverintchannelsky_owfm_appconsulting
+
+[28]
+Estimated Verint Channel Sky oWFO PM 						estverintchannelsky_owfo_pm
+Estimated Verint Channel Sky oWFO SE						estverintchannelsky_owfo_se
+Estimated Verint Channel Sky oWFO WFM SE					estverintchannelsky_owfo_wfmse
+Estimated Verint Channel Sky oWFO Solution Design 			estverintchannelsky_owfo_solndesign
+Estimated Verint Channel Sky oWFO PSE/SI 					estverintchannelsky_owfo_psesi
+Estimated Verint Channel Sky oWFO OnSite Training VLN		estverintchannelsky_owfo_trainvln
+Estimated Verint Channel Sky oWFO OnSite Training Adtech	estverintchannelsky_owfo_trainadtech
+Estimated Verint Channel Sky oWFO Application Consulting	estverintchannelsky_owfo_appconsulting
+
+[29]
+Estimated Verint Direct Sky oQM PM 							estverintdirectsky_oqm_pm
+Estimated Verint Direct Sky oQM SE							estverintdirectsky_oqm_se
+Estimated Verint Direct Sky oQM WFM SE						estverintdirectsky_oqm_wfmse
+Estimated Verint Direct Sky oQM Solution Design 			estverintdirectsky_oqm_solndesign
+Estimated Verint Direct Sky oQM PSE/SI 						estverintdirectsky_oqm_psesi
+Estimated Verint Direct Sky oQM OnSite Training VLN			estverintdirectsky_oqm_trainvln
+Estimated Verint Direct Sky oQM OnSite Training Adtech		estverintdirectsky_oqm_trainadtech
+Estimated Verint Direct Sky oQM Application Consulting		estverintdirectsky_oqm_appconsulting
+
+[30]
+Estimated Verint Direct Sky oRec PM 						estverintdirectsky_orec_pm
+Estimated Verint Direct Sky oRec SE							estverintdirectsky_orec_se
+Estimated Verint Direct Sky oRec WFM SE						estverintdirectsky_orec_wfmse
+Estimated Verint Direct Sky oRec Solution Design 			estverintdirectsky_orec_solndesign
+Estimated Verint Direct Sky oRec PSE/SI 					estverintdirectsky_orec_psesi
+Estimated Verint Direct Sky oRec OnSite Training VLN		estverintdirectsky_orec_trainvln
+Estimated Verint Direct Sky oRec OnSite Training Adtech		estverintdirectsky_orec_trainadtech
+Estimated Verint Direct Sky oRec Application Consulting		estverintdirectsky_orec_appconsulting
+
+[31]
+Estimated Verint Direct Sky oWFM PM 						estverintdirectsky_owfm_pm
+Estimated Verint Direct Sky oWFM SE							estverintdirectsky_owfm_se
+Estimated Verint Direct Sky oWFM WFM SE						estverintdirectsky_owfm_wfmse
+Estimated Verint Direct Sky oWFM Solution Design 			estverintdirectsky_owfm_solndesign
+Estimated Verint Direct Sky oWFM PSE/SI 					estverintdirectsky_owfm_psesi
+Estimated Verint Direct Sky oWFM OnSite Training VLN		estverintdirectsky_owfm_trainvln
+Estimated Verint Direct Sky oWFM OnSite Training Adtech		estverintdirectsky_owfm_trainadtech
+Estimated Verint Direct Sky oWFM Application Consulting		estverintdirectsky_owfm_appconsulting
+
+[32]
+Estimated Verint Direct Sky oWFO PM 						estverintdirectsky_owfo_pm
+Estimated Verint Direct Sky oWFO SE							estverintdirectsky_owfo_se
+Estimated Verint Direct Sky oWFO WFM SE						estverintdirectsky_owfo_wfmse
+Estimated Verint Direct Sky oWFO Solution Design 			estverintdirectsky_owfo_solndesign
+Estimated Verint Direct Sky oWFO PSE/SI 					estverintdirectsky_owfo_psesi
+Estimated Verint Direct Sky oWFO OnSite Training VLN		estverintdirectsky_owfo_trainvln
+Estimated Verint Direct Sky oWFO OnSite Training Adtech		estverintdirectsky_owfo_trainadtech
+Estimated Verint Direct Sky oWFO Application Consulting		estverintdirectsky_owfo_appconsulting

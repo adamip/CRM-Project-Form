@@ -1,0 +1,324 @@
+01 -----------------------------------------
+
+Verint Channel Verint oQM PM
+Verint Channel Verint oQM SE
+Verint Channel Verint oQM WFM SE
+Verint Channel Verint oQM Solution Design
+Verint Channel Verint oQM PSE/SI
+Verint Channel Verint oQM OnSite Training VLN
+Verint Channel Verint oQM OnSite Training Adtech
+Verint Channel Verint oQM Application Consulting
+
+VerintChannelVerint_oQM_PM
+VerintChannelVerint_oQM_SE
+VerintChannelVerint_oQM_WFMSE
+VerintChannelVerint_oQM_SolnDesign
+VerintChannelVerint_oQM_PSESI
+VerintChannelVerint_oQM_OnSiteTrainVLN
+VerintChannelVerint_oQM_OnSiteTrainAdtech
+VerintChannelVerint_oQM_AppConsulting
+
+02 -----------------------------------------
+
+Verint Channel Sky oQM PM
+Verint Channel Sky oQM SE
+Verint Channel Sky oQM WFM SE
+Verint Channel Sky oQM Solution Design
+Verint Channel Sky oQM PSE/SI
+Verint Channel Sky oQM OnSite Training VLN
+Verint Channel Sky oQM OnSite Training Adtech
+Verint Channel Sky oQM Application Consulting
+
+VerintChannelSky_oQM_PM
+VerintChannelSky_oQM_SE
+VerintChannelSky_oQM_WFMSE
+VerintChannelSky_oQM_SolnDesign
+VerintChannelSky_oQM_PSESI
+VerintChannelSky_oQM_OnSiteTrainVLN
+VerintChannelSky_oQM_OnSiteTrainAdtech
+VerintChannelSky_oQM_AppConsulting
+
+03 -----------------------------------------
+
+Verint Channel Verint oRec PM
+Verint Channel Verint oRec SE
+Verint Channel Verint oRec WFM SE
+Verint Channel Verint oRec Solution Design
+Verint Channel Verint oRec PSE/SI
+Verint Channel Verint oRec OnSite Training VLN
+Verint Channel Verint oRec OnSite Training Adtech
+Verint Channel Verint oRec Application Consulting
+
+VerintChannelVerint_oRec_PM
+VerintChannelVerint_oRec_SE
+VerintChannelVerint_oRec_WFMSE
+VerintChannelVerint_oRec_SolnDesign
+VerintChannelVerint_oRec_PSESI
+VerintChannelVerint_oRec_OnSiteTrainVLN
+VerintChannelVerint_oRec_OnSiteTrainAdtech
+VerintChannelVerint_oRec_AppConsulting
+
+04 -----------------------------------------
+
+Verint Channel Sky oRec PM
+Verint Channel Sky oRec SE
+Verint Channel Sky oRec WFM SE
+Verint Channel Sky oRec Solution Design
+Verint Channel Sky oRec PSE/SI
+Verint Channel Sky oRec OnSite Training VLN
+Verint Channel Sky oRec OnSite Training Adtech
+Verint Channel Sky oRec Application Consulting
+
+VerintChannelSky_oRec_PM
+VerintChannelSky_oRec_SE
+VerintChannelSky_oRec_WFMSE
+VerintChannelSky_oRec_SolnDesign
+VerintChannelSky_oRec_PSESI
+VerintChannelSky_oRec_OnSiteTrainVLN
+VerintChannelSky_oRec_OnSiteTrainAdtech
+VerintChannelSky_oRec_AppConsulting
+
+05 -----------------------------------------
+
+Verint Channel Verint oWFM PM
+Verint Channel Verint oWFM SE
+Verint Channel Verint oWFM WFM SE
+Verint Channel Verint oWFM Solution Design
+Verint Channel Verint oWFM PSE/SI
+Verint Channel Verint oWFM OnSite Training VLN
+Verint Channel Verint oWFM OnSite Training Adtech
+Verint Channel Verint oWFM Application Consulting
+
+VerintChannelVerint_oWFM_PM
+VerintChannelVerint_oWFM_SE
+VerintChannelVerint_oWFM_WFMSE
+VerintChannelVerint_oWFM_SolnDesign
+VerintChannelVerint_oWFM_PSESI
+VerintChannelVerint_oWFM_OnSiteTrainVLN
+VerintChannelVerint_oWFM_OnSiteTrainAdtech
+VerintChannelVerint_oWFM_AppConsulting
+
+06 -----------------------------------------
+
+Verint Channel Sky oWFM PM
+Verint Channel Sky oWFM SE
+Verint Channel Sky oWFM WFM SE
+Verint Channel Sky oWFM Solution Design
+Verint Channel Sky oWFM PSE/SI
+Verint Channel Sky oWFM OnSite Training VLN
+Verint Channel Sky oWFM OnSite Training Adtech
+Verint Channel Sky oWFM Application Consulting
+
+VerintChannelSky_oWFM_PM
+VerintChannelSky_oWFM_SE
+VerintChannelSky_oWFM_WFMSE
+VerintChannelSky_oWFM_SolnDesign
+VerintChannelSky_oWFM_PSESI
+VerintChannelSky_oWFM_OnSiteTrainVLN
+VerintChannelSky_oWFM_OnSiteTrainAdtech
+VerintChannelSky_oWFM_AppConsulting
+
+07 -----------------------------------------
+
+Verint Channel Verint oWFO PM
+Verint Channel Verint oWFO SE
+Verint Channel Verint oWFO WFM SE
+Verint Channel Verint oWFO Solution Design
+Verint Channel Verint oWFO PSE/SI
+Verint Channel Verint oWFO OnSite Training VLN
+Verint Channel Verint oWFO OnSite Training Adtech
+Verint Channel Verint oWFO Application Consulting
+
+VerintChannelVerint_oWFO_PM
+VerintChannelVerint_oWFO_SE
+VerintChannelVerint_oWFO_WFMSE
+VerintChannelVerint_oWFO_SolnDesign
+VerintChannelVerint_oWFO_PSESI
+VerintChannelVerint_oWFO_OnSiteTrainVLN
+VerintChannelVerint_oWFO_OnSiteTrainAdtech
+VerintChannelVerint_oWFO_AppConsulting
+
+08 -----------------------------------------
+
+Verint Channel Sky oWFO PM
+Verint Channel Sky oWFO SE
+Verint Channel Sky oWFO WFM SE
+Verint Channel Sky oWFO Solution Design
+Verint Channel Sky oWFO PSE/SI
+Verint Channel Sky oWFO OnSite Training VLN
+Verint Channel Sky oWFO OnSite Training Adtech
+Verint Channel Sky oWFO Application Consulting
+
+VerintChannelSky_oWFO_PM
+VerintChannelSky_oWFO_SE
+VerintChannelSky_oWFO_WFMSE
+VerintChannelSky_oWFO_SolnDesign
+VerintChannelSky_oWFO_PSESI
+VerintChannelSky_oWFO_OnSiteTrainVLN
+VerintChannelSky_oWFO_OnSiteTrainAdtech
+VerintChannelSky_oWFO_AppConsulting
+
+09 -----------------------------------------
+
+Verint Direct Verint oQM PM
+Verint Direct Verint oQM SE
+Verint Direct Verint oQM WFM SE
+Verint Direct Verint oQM Solution Design
+Verint Direct Verint oQM PSE/SI
+Verint Direct Verint oQM OnSite Training VLN
+Verint Direct Verint oQM OnSite Training Adtech
+Verint Direct Verint oQM Application Consulting
+
+VerintDirectVerint_oQM_PM
+VerintDirectVerint_oQM_SE
+VerintDirectVerint_oQM_WFMSE
+VerintDirectVerint_oQM_SolnDesign
+VerintDirectVerint_oQM_PSESI
+VerintDirectVerint_oQM_OnSiteTrainVLN
+VerintDirectVerint_oQM_OnSiteTrainAdtech
+VerintDirectVerint_oQM_AppConsulting
+
+10 -----------------------------------------
+
+Verint Direct Sky oQM PM
+Verint Direct Sky oQM SE
+Verint Direct Sky oQM WFM SE
+Verint Direct Sky oQM Solution Design
+Verint Direct Sky oQM PSE/SI
+Verint Direct Sky oQM OnSite Training VLN
+Verint Direct Sky oQM OnSite Training Adtech
+Verint Direct Sky oQM Application Consulting
+
+VerintDirectSky_oQM_PM
+VerintDirectSky_oQM_SE
+VerintDirectSky_oQM_WFMSE
+VerintDirectSky_oQM_SolnDesign
+VerintDirectSky_oQM_PSESI
+VerintDirectSky_oQM_OnSiteTrainVLN
+VerintDirectSky_oQM_OnSiteTrainAdtech
+VerintDirectSky_oQM_AppConsulting
+
+11 -----------------------------------------
+
+Verint Direct Verint oRec PM
+Verint Direct Verint oRec SE
+Verint Direct Verint oRec WFM SE
+Verint Direct Verint oRec Solution Design
+Verint Direct Verint oRec PSE/SI
+Verint Direct Verint oRec OnSite Training VLN
+Verint Direct Verint oRec OnSite Training Adtech
+Verint Direct Verint oRec Application Consulting
+
+VerintDirectVerint_oRec_PM
+VerintDirectVerint_oRec_SE
+VerintDirectVerint_oRec_WFMSE
+VerintDirectVerint_oRec_SolnDesign
+VerintDirectVerint_oRec_PSESI
+VerintDirectVerint_oRec_OnSiteTrainVLN
+VerintDirectVerint_oRec_OnSiteTrainAdtech
+VerintDirectVerint_oRec_AppConsulting
+
+12 -----------------------------------------
+
+Verint Direct Sky oRec PM
+Verint Direct Sky oRec SE
+Verint Direct Sky oRec WFM SE
+Verint Direct Sky oRec Solution Design
+Verint Direct Sky oRec PSE/SI
+Verint Direct Sky oRec OnSite Training VLN
+Verint Direct Sky oRec OnSite Training Adtech
+Verint Direct Sky oRec Application Consulting
+
+VerintDirectSky_oRec_PM
+VerintDirectSky_oRec_SE
+VerintDirectSky_oRec_WFMSE
+VerintDirectSky_oRec_SolnDesign
+VerintDirectSky_oRec_PSESI
+VerintDirectSky_oRec_OnSiteTrainVLN
+VerintDirectSky_oRec_OnSiteTrainAdtech
+VerintDirectSky_oRec_AppConsulting
+
+13 -----------------------------------------
+
+Verint Direct Verint oWFM PM
+Verint Direct Verint oWFM SE
+Verint Direct Verint oWFM WFM SE
+Verint Direct Verint oWFM Solution Design
+Verint Direct Verint oWFM PSE/SI
+Verint Direct Verint oWFM OnSite Training VLN
+Verint Direct Verint oWFM OnSite Training Adtech
+Verint Direct Verint oWFM Application Consulting
+
+VerintDirectVerint_oWFM_PM
+VerintDirectVerint_oWFM_SE
+VerintDirectVerint_oWFM_WFMSE
+VerintDirectVerint_oWFM_SolnDesign
+VerintDirectVerint_oWFM_PSESI
+VerintDirectVerint_oWFM_OnSiteTrainVLN
+VerintDirectVerint_oWFM_OnSiteTrainAdtech
+VerintDirectVerint_oWFM_AppConsulting
+
+14 -----------------------------------------
+
+Verint Direct Sky oWFM PM
+Verint Direct Sky oWFM SE
+Verint Direct Sky oWFM WFM SE
+Verint Direct Sky oWFM Solution Design
+Verint Direct Sky oWFM PSE/SI
+Verint Direct Sky oWFM OnSite Training VLN
+Verint Direct Sky oWFM OnSite Training Adtech
+Verint Direct Sky oWFM Application Consulting
+
+VerintDirectSky_oWFM_PM
+VerintDirectSky_oWFM_SE
+VerintDirectSky_oWFM_WFMSE
+VerintDirectSky_oWFM_SolnDesign
+VerintDirectSky_oWFM_PSESI
+VerintDirectSky_oWFM_OnSiteTrainVLN
+VerintDirectSky_oWFM_OnSiteTrainAdtech
+VerintDirectSky_oWFM_AppConsulting
+
+15 -----------------------------------------
+
+Verint Direct Verint oWFO PM
+Verint Direct Verint oWFO SE
+Verint Direct Verint oWFO WFM SE
+Verint Direct Verint oWFO Solution Design
+Verint Direct Verint oWFO PSE/SI
+Verint Direct Verint oWFO OnSite Training VLN
+Verint Direct Verint oWFO OnSite Training Adtech
+Verint Direct Verint oWFO Application Consulting
+
+VerintDirectVerint_oWFO_PM
+VerintDirectVerint_oWFO_SE
+VerintDirectVerint_oWFO_WFMSE
+VerintDirectVerint_oWFO_SolnDesign
+VerintDirectVerint_oWFO_PSESI
+VerintDirectVerint_oWFO_OnSiteTrainVLN
+VerintDirectVerint_oWFO_OnSiteTrainAdtech
+VerintDirectVerint_oWFO_AppConsulting
+
+16 -----------------------------------------
+
+Verint Direct Sky oWFO PM
+Verint Direct Sky oWFO SE
+Verint Direct Sky oWFO WFM SE
+Verint Direct Sky oWFO Solution Design
+Verint Direct Sky oWFO PSE/SI
+Verint Direct Sky oWFO OnSite Training VLN
+Verint Direct Sky oWFO OnSite Training Adtech
+Verint Direct Sky oWFO Application Consulting
+
+VerintDirectSky_oWFO_PM
+VerintDirectSky_oWFO_SE
+VerintDirectSky_oWFO_WFMSE
+VerintDirectSky_oWFO_SolnDesign
+VerintDirectSky_oWFO_PSESI
+VerintDirectSky_oWFO_OnSiteTrainVLN
+VerintDirectSky_oWFO_OnSiteTrainAdtech
+VerintDirectSky_oWFO_AppConsulting
+
+
+
+
+
